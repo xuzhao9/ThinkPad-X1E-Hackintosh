@@ -57,18 +57,14 @@ I made my own `DSDT.aml` from the vanilla version.
 ## kext versions and modifications
 
 - AppleALC.kext v1.3.9
+
   Set `alcid=21` in `E/C/config.plist`. According to [AppleALC support matrix](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs), either layout 11 or layout 21 should work. However, sound card stops working unpredictably when using layout 11. Use layout 21 instead solves the problem.
   
 - FakeSMC.kext
-
 - Lilu.kext
-
 - NoTouchID.kext
-
 - USBInjectAll.kext
-
 - VoodooPS2Controller.kext
-
 - WhateverGreen.kext
 
 
