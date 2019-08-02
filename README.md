@@ -11,7 +11,7 @@
 - Wireless: Intel Wireless-AC 9260
 - Sound card: Realtek ALC285
 - BIOS: v1.23
-- OS version: OS X Mojave 10.14.6
+- OS: OS X Mojave 10.14.6
 
 ## Result
 
@@ -66,7 +66,11 @@ I made my own `DSDT.aml` from the vanilla version.
 - USBInjectAll.kext
 - VoodooPS2Controller.kext
 - WhateverGreen.kext
-
+- L/E/ACPIbatterymanager.kext
+- L/E/Codeccommander.kext
+- L/E/HibernationFixup.kext
+- L/E/IntelMausiethernet.kext
+- L/E/XHCI-unsupported.kext
 
 # Misc
 
