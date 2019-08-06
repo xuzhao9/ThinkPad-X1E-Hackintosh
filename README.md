@@ -15,6 +15,8 @@
 
 ## Result
 
+<img align="middle" src="https://github.com/xuzhao9/Thinkpad-X1E-Hackintosh/blob/master/screenshots/overview.png" alt="Overview" />
+
 ### What works
 
 - Base OS
